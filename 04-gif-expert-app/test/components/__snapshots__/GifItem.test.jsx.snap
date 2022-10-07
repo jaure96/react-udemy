@@ -31,3 +31,19 @@ exports[`Pruebas en <GifItem /> Had to match with the snapshot 1`] = `
   </div>
 </div>
 `;
+
+exports[`Test in <GifItem /> Had to match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="A simple title"
+      src="http://one-punch.com/saitama.jpg"
+    />
+    <p>
+      A simple title
+    </p>
+  </div>
+</div>
+`;
