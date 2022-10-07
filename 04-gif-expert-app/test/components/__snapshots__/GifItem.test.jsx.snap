@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifItem /> Ha to match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="A simple title"
+      src="http://one-punch.com/saitama.jpg"
+    />
+    <p>
+      A simple title
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Pruebas en <GifItem /> Had to match with the snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="A simple title"
+      src="http://one-punch.com/saitama.jpg"
+    />
+    <p>
+      A simple title
+    </p>
+  </div>
+</div>
+`;
